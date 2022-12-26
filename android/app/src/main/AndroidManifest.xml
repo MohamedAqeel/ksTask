@@ -2,7 +2,7 @@
     package="com.example.tes">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="tes"
+        android:label="Ks Task"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
